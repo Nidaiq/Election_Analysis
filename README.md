@@ -44,7 +44,7 @@ The candidate’s results are as follows:
 -   Diana DeGette received 73.8 % of votes and 272,892 votes
 -   Raymon Anthony Doane received 3.1 % of votes and 11,606 votes
 
-The results show that Diana DeGette who won the election by a landslide and received 73.8 % of votes and 272,892 votes
+The results show that Diana DeGette who won the election by a landslide and received 73.8 % of votes and 272,892 votes.
 
 ## County Results and Largest County Turnout
 The county results are as follows:
