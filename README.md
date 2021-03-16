@@ -55,8 +55,8 @@ The county results are as follows:
 The results show that the Denver county had he largest county turnout with 82.8% of the votes received in that county.
 
 # Election Audit Summary
-The *PyPoll_Challenge.py* file contains the script and the *election_results.txt* file contains the text version of the results. 
+The *PyPoll_Challenge.py* file contains the script and the *election_results.txt* file in the analysis folder contains the text version of the results. 
 
-The script can be modified to work on a larger scale by adding *state_list* list and a *state_vote* dictionary.  The code can be modified to tally up the results for all the states in a similar manner that it has been done for counties and candidates.  Modifications can also be made to the script to have live output as results are counted in.  The script can also be reused by assigning the hard-coded variables currently in the script (for example the *election_results.csv* and *election_results.txt*) to variables.  This would allow the user to assign those variables to other files and reuse them for other tasks.  
+The script can be modified to work on a larger scale by adding *state_list* list and a *state_vote* dictionary.  The code can be modified to tally up the results for all the states in a similar manner that it has been done for counties and candidates.  Modifications can also be made to the script to have live output as results are counted in.  The script can also be reused by assigning the hard-coded variables currently in the script (for example the *election_results.csv* in the Resources folder and *election_results.txt* in the analysis folder) to variables.  This would allow the user to assign those variables to other files and reuse them for other tasks.  
 
 The script created for this audit can be used for senatorial district and other local elections.  The script can also be later modified and incorporated to have a live output that could be telecasted over various networks.  The script can also be modified to use on a much smaller scale and make it fun for the students in schools for their student council elections.  The possibilities are endless.  
