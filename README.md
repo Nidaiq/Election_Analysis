@@ -6,15 +6,15 @@ Tom, who is a Colorado Board of Elections employee has given you the following t
 ## Purpose
 The purpose of this project is to write a python code to automate the process for the total votes, candidate results and county results of the election.  Breakdown of the criteria's required are as follows:
 
-- Calculate the total number of votes cast
+- **Calculate the total number of votes cast**
 
-- Candidate Results:
+- **Candidate Results:**
 1. Get a complete list of candidates who received votes
 2. Calculate the total number of votes each candidate received
 3. Calculate the percentage of votes each candidate won
 4. Determine the winner of election based on popular vote
 
-- County Results:
+- **County Results:**
 1. Complete list of counties that the voting took place in
 2. Calculate the total number of votes receive in each county
 3. Calculate the percentage of votes each candidate won
